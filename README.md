@@ -1,0 +1,1 @@
+In this class, after defining the template and the struct, I use function overloading and operator overloading to definie the set of actions that are applicable to the instances of the class.
